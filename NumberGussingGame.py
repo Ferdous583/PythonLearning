@@ -22,4 +22,4 @@ for i in range(1,6):
     f_name()
     if num==x:
         break
-    print('You have',5-i,'time left.')
+    print('You have',5-i,'time chances left.')
