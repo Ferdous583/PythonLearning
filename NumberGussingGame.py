@@ -2,12 +2,12 @@
 # Number gassing.
 
 
-print('\n"Gassing a number between 0 to 30. And you have only 5 chances."')
+print('\n"Guessing a number between 0 to 30. And you have only 5 chances."')
 num=17
 
 def f_name():
     if num==x:
-        print('You have win.')
+        print('Congratulation! You win.')
     elif x<0 or x>30:
         print('Wrong Input!')
     elif num<x:
